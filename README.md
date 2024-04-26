@@ -8,7 +8,7 @@ Este projeto é uma exploração de como as horas dedicadas ao estudo impactam a
 
 ![Regressao](https://github.com/Josue185/estudo_notas/assets/92592495/dab1b5db-200a-4455-827a-5a2fff94e346)
 
-![Regressao](https://github.com/Josue185/estudo_notas/assets/92592495/6ba5e666-7da7-4fd6-b371-114f51e8ac24)
+![residuo](https://github.com/Josue185/estudo_notas/assets/92592495/0a63a8a2-7b6b-41fe-bd4f-294beebf16a1)
 
 Características do Dataset
 O dataset horas_estudo.csv contém duas variáveis principais:
